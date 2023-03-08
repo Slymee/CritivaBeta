@@ -17,3 +17,5 @@ Also import the sql file before use.
 Enjoy!!!!! (You probably won't though)
 
 Note: Works in my machine as intended, can't gurantee in all.
+
+Had to reduce the file size removing some images, Here's the link to full project
